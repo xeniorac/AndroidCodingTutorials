@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SensorAccDemoActivity!</string>
+    <string name="app_name">SensorAccDemo</string>
+
+</resources>
